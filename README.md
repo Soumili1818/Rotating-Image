@@ -1,1 +1,1 @@
-# Rotating-Image
+# Rotated-Image-Gallery
